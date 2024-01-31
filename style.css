@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: red;
+}
+footer{
+    color: red;
+}
+a{
+    color: blue;
+    background: greenyellow;
+}
+table{
+    color: black;
+    background-color: goldenrod;
+}
+h2{
+    color: red;
+}
+form{
+    color: gold;
+    background-color: black;
+}
+button{
+    color: gold;
+    background-color: black;
+}
+h3{
+    color: yellow;
+    background-color: black;
+}
